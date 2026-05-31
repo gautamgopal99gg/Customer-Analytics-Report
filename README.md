@@ -1,4 +1,4 @@
-# Customer-Analytics-Report
+# HR Analystics
 The data shows HR information of SME company and attrition rate by various departments and demographics.
 # HR Analytics Dashboard
 
